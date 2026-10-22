@@ -56,7 +56,7 @@ Todos los miembros revisan los entregables y participan en la presentación oral
 ## 5. Planificación
 
 - Plan, tareas, PERT y Gantt: [`docs/plan.md`](docs/plan.md)
-- Tablero de tareas: GitHub Projects del repositorio (Board y Roadmap), con una *issue* por actividad (A–O).
+- Tablero de tareas: GitHub Projects del repositorio (Board y Roadmap): https://github.com/users/hectorvillanuevaazuara-dot/projects/1.
 
 ## 6. Estructura del repositorio
 
